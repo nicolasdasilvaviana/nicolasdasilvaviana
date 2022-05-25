@@ -1,10 +1,8 @@
 # sobre mim
 - 👋 Ola meu nome é , I’m @nicolasdasilvaviana
-- meu e
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👍: meu emai é viana.nicolas@escola.pr.gov.br
+- 👀 eu estou interecado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath
 
 
 
